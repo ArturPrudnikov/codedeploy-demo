@@ -1,4 +1,4 @@
-#--------------------------------------------------------------------------------
+.html#--------------------------------------------------------------------------------
 Simple AWS CodeDeploy Config File
 #
 Copyleft (c) by Artur Prudnikov
@@ -7,5 +7,5 @@ Copyleft (c) by Artur Prudnikov
 version: 0.0
 os     : windows
  files:
-   -  sourse     : \
+   -  sourse     : \index.html
       destination: C:\inetpub\wwwroot
